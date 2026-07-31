@@ -65,3 +65,17 @@ p {
 img {
     max-width: 100%;
 }
+
+/* Utilidades */
+
+.no-margin {
+    margin: 0;
+}
+
+.no-pading {
+    padding: 0;
+}
+
+.centrar-texto {
+    text-align: center;
+}
